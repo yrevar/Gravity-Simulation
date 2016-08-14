@@ -1,0 +1,27 @@
+*.swp
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# dotenv
+.env
+
+# virtualenv
+venv
+ENV/
+
+# jekyll
+_site/
+.sass-cache/
+.jekyll-metadata
+
